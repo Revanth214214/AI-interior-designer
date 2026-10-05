@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(level = logging.INFO ,format = '[%(asctime)s]: %(message)s:')
 
-project_name = "Linear_regression_01"  
+project_name = "AI_interior_design"  
 
 # For CI/CD type deployment ymal/automated files
 list_of_files = [
