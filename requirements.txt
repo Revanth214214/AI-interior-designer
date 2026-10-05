@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pillow
+ultralytics
+transformers
+faiss-cpu
+ipykernel
+
