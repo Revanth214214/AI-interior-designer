@@ -1,11 +1,13 @@
+--index-url https://download.pytorch.org/whl/nightly/cu128
+--extra-index-url https://pypi.org/simple
+
 torch
 torchvision
+numpy<2.0.0
 opencv-python
-numpy
 matplotlib
 pillow
 ultralytics
 transformers
 faiss-cpu
 ipykernel
-
